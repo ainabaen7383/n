@@ -143,6 +143,11 @@ cat > /etc/squid/ads.txt <<-END
 50websads.com
 518ad.com
 51yes.com
+v.whatsapp.com
+m.wechat.com
+jooxmusic.com
+api.kkbox.com.tw
+play.spotify.com
 600z.com
 777partner.com
 77tracking.com
